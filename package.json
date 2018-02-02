@@ -1,0 +1,30 @@
+{
+  "name": "hello-js-se05-ep06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaubrasil/hello-js-se05-ep06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaubrasil/hello-js-se05-ep06/issues"
+  },
+  "homepage": "https://github.com/nicolaubrasil/hello-js-se05-ep06#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "morgan": "^1.9.0",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
